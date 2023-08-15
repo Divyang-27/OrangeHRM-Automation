@@ -1,1 +1,4 @@
 *.ASM linguist-language=java
+*.html linguist-detectable=false
+*.css linguist-detectable=false
+*.javascript linguist-detectable=false
